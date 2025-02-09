@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Documents/Web Development"
+		},
+		{
+			"path": "../../../../Documents/3-1/3100-project/Students Home"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../student_home03"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Students Home"
+	}
+}
